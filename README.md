@@ -4,7 +4,7 @@
 To view my project enter { Project Folder Name } including { index html file }
 
 For example 
-  Weather Api Project -> https://neel31o1.github.io/Neel_Projects/Weather%20App/index.html
+  Weather Api Project -> https://neel31o1.github.io/Neel_Projects/Github-User-Api/index.html
 
 
 
